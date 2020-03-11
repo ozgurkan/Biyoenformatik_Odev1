@@ -1,0 +1,1 @@
+# DNA-translation-to-amino-acit-sequence-
