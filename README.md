@@ -6,6 +6,7 @@ Reminder:
 Example 1.  Transcribe the following DNA to RNA, then use the genetic code to translate it to a sequence of amino acids. 
  
  TCATAATACGTTTTGTATTCGCCAGCGCTTCGGTGT 
+ 
  Answer 1.  To transcribe the DNA, first substitute each DNA for it’s counterpart (i.e., G for C, C for G, T for A and A for T):    
  TCATAATACGTTTTGTATTCGCCAGCGCTTCGGTGT 
  AGTATTATGCAAAACATAAGCGGTCGCGAAGCCACA  
