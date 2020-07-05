@@ -1,4 +1,5 @@
-# DNA-translation-to-amino-acit-sequence-
+# DNA Translation To Amino Acit Sequence
+
 HW 1: Write a Perl program that implements DNA translation to amino acit sequence 
 
 Reminder: 
